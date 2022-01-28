@@ -1,6 +1,6 @@
-<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=ishwar6&style=flat-square">
-- 👋 Ishwar Jangid  </br>
-- 👀  Python Developer </br>
+<img align="center" alt="ishwar6-msqlserver"  src="https://komarev.com/ghpvc/?username=ishwar6&style=flat-square&color=grey">
+- 👋  Ishwar Jangid  </br>
+- 👀  Python Developer </br></br>
 
 <div align="center">
   <a href="https://github.com/ishwar6">
@@ -12,7 +12,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar6&theme=dark">
   </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ishwar6&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=ishwar6&theme=dark&column=7" >
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ishwar6-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
