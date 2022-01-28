@@ -1,6 +1,6 @@
-<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
+<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=ishwar6&style=flat-square">
 - 👋 Ishwar Jangid  </br>
-- 👀   </br>
+- 👀  Python Developer </br>
 
 <div align="center">
   <a href="https://github.com/ishwar6">
