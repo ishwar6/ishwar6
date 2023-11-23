@@ -3,7 +3,7 @@
 - 👀  Python Developer </br></br>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Backend Developer and Devops Engineer. 
+- 🖥 Backend Developer and DevOps Engineer. 
 - 💼 Youtube Channel: https://www.youtube.com/c/IshwarJangid to make Django easy to learn. 
 
 
