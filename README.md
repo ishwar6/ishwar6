@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Ishwar Jangid
 
-🚀 **Backend Developer | DevOps Engineer | AI/ML Enthusiast | Data Engineer**  
+🚀 **Backend Developer | AI/ML Enthusiast | Data Engineer | Maths**  
 🎯 Passionate about AI, Deep Learning, Data Engineering, and Cloud Computing.
 
 ---
