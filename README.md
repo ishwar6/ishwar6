@@ -1,84 +1,102 @@
-<p align="center">
-  <img align="center" alt="ishwar6-profile" src="https://komarev.com/ghpvc/?username=ishwar6&style=flat-square&color=grey">
-</p>
+<div align="center">
 
-# 👋 Hey, I'm Ishwar Jangid
+# Hi, I'm Ishwar Jangid 👋
 
-🚀 **Backend Developer | AI/ML Enthusiast | Data Engineer | Maths**  
-🎯 Passionate about AI, Deep Learning, Data Engineering, and Cloud Computing.
+**Software engineer building production AI systems: agents, retrieval pipelines and the data platforms underneath them.**
+I learn in public by writing long-form, first-principles books and guides on LLMs, GPUs and ML systems.
 
----
+[![Website](https://img.shields.io/badge/ishwarj.com-read%20my%20work-0f7286?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ishwarj.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Ishwar%20Jangid-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IshwarJangid)
+[![X](https://img.shields.io/badge/X-@Ishwaraiml-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ishwaraiml)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishwarjangid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwarjangid/)
+[![Email](https://img.shields.io/badge/Email-ishwarjangid116%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishwarjangid116@gmail.com)
 
-## 📖 About Me
-- 🖥 **Backend & DevOps Engineer** with expertise in building scalable systems.  
-- 🎥 **YouTube Channel**: [Ishwar Jangid](https://www.youtube.com/c/IshwarJangid) – Making Django, AI, ML, and Cloud easy to learn.  
-- 🧠 Deeply interested in **Transformers, AI/ML, Data Engineering, Airflow, Redshift, and Deep Learning**.
-- 💡 Experienced in designing **high-performance distributed systems** and data pipelines.
-- 🔥 **Certified AWS Solutions Architect** and working on advanced AI & ML applications.
+</div>
 
 ---
 
-## 🏆 Key Projects & Contributions
+## 🌐 [ishwarj.com](https://ishwarj.com): what you will find there
 
-### 🔹 [Consumr.ai](https://consumr.ai/)
-- Developed and optimized **data ingestion pipelines** from **Facebook Ads and Google Ads APIs**.
-- Managed **PostgreSQL database**, ensuring efficient indexing and query optimization.
-- Built **REST APIs using Flask** to support data retrieval and platform interactions.
-- Designed a **data visualization platform** to analyze and optimize marketing spend.
+Everything on the site is written from first principles, in simple English, with code you can run and numbers you can measure. Dark mode by default.
 
-### 🔹 [Cart.com](https://cart.com)
-- Implemented **Airbyte and Apache Airflow** workflows to streamline **Shopify data ingestion into Snowflake**.
-- Developed **complex SQL stored procedures** for efficient data transformations.
-- Designed **Python-based ETL pipelines** to handle high-volume e-commerce data.
+### 📚 Books
 
-### 🔹 Vision IT Labs
-- Led the **backend engineering team**, overseeing multiple microservices.
-- Architected the **Notification Service** using **Django, Celery, and Kafka**.
-- Developed high-performance **API services** using **FastAPI and Django with PostgreSQL**.
-- Designed the **Stats Service** leveraging **Kafka Connect and Google BigQuery** for real-time analytics.
-- Managed **EKS deployments**, CI/CD pipelines with **Jenkins**, and **Terraform-based infrastructure automation**.
+| Book | What it covers |
+|---|---|
+| [**GPU Programming**](https://ishwarj.com/books/gpu-programming/) | Predict how fast a kernel can go, measure it, and close the gap. |
+| [**RAG: From First Principles**](https://ishwarj.com/books/rag-first-principles/) | Retrieval-augmented generation built and measured step by step: embeddings, chunking, hybrid search, evaluation. |
+| [**LLM from Scratch**](https://ishwarj.com/books/llm-from-scratch/) | A language model end to end: tokenizer, data pipeline, architecture, pretraining, fine-tuning. |
+| [**LangGraph & LangChain**](https://ishwarj.com/books/langgraph-deep-dive/) | A code-first deep dive into building agents with LangGraph and LangChain. |
+| [**Designing Data Intensive Applications**](https://ishwarj.com/books/designing-data-intensive-applications/) | Chapter-by-chapter notes on data systems, starting with the trade-offs in data systems architecture (in progress). |
 
-### 🔹 [Yes Lawyer](https://www.yeslawyer.com/)
-- Developed **backend services** integrating **Twilio for communications** and **OpenAI for AI-driven legal assistance**.
-- Built a **transcription system** to enhance client query processing.
-- Managed **Azure cloud infrastructure**, ensuring scalability and cost efficiency.
+### 📄 Research papers, explained section by section
 
-### 🔹 [CVS Health](https://www.cvshealth.com/)
-- Engineered **data processing pipelines** on **Google Databricks** for large-scale healthcare analytics.
-- Worked extensively with **Google APIs, Python, and authentication protocols** to ensure secure data access.
-- Developed **gRPC-based integrations** to enhance interoperability within CVS Health's data ecosystem.
+Landmark papers read slowly: the paper's own lines highlighted, plain-English explanations, definitions, figures and real code that checks every claim.
 
----
+- [**BERT**](https://ishwarj.com/papers/bert/) (Devlin et al., 2018), in 6 parts: the big idea, architecture and input, pre-training, fine-tuning and results, ablations, impact.
 
-## 🛠️ Tech Stack & Expertise
+### ✍️ Writing series
 
-### 🚀 **Backend & DevOps**
-- **Programming**: Python (Django, FastAPI, Flask)
-- **Database**: PostgreSQL, MySQL, Redis, MongoDB
-- **Cloud & DevOps**: AWS (EC2, Lambda, S3, RDS, Redshift), Docker, Kubernetes, Terraform
-- **CI/CD & Infra**: GitHub Actions, Jenkins, Ansible
+- **[Attention, From the Ground Up](https://ishwarj.com/writings/attention-1-self-attention/)** (4 parts): self-attention, MQA / GQA / MLA, sliding-window and sparse attention, linear attention, Gated DeltaNet and hybrid models.
+- **[LLM Inference](https://ishwarj.com/writings/llm-inference-1-prefill-and-decode/)** (4 parts): prefill and decode, the KV cache, how vLLM serves thousands of users, speculative decoding.
+- **[HNSW, From the Ground Up](https://ishwarj.com/writings/hnsw-from-the-ground-up/)**: how vector search really works.
 
-### 🤖 **AI/ML & Data Engineering**
-- **Machine Learning**: Scikit-learn, XGBoost, CatBoost, LightGBM
-- **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
-- **Data Engineering**: Apache Airflow, Apache Spark, Redshift, Snowflake, Dataproc, BigQuery
-- **NLP & LLMs**: GPT models, LangChain, RAG models, Vector Databases (Weaviate, FAISS)
-- **System Design & Optimization**: Scalable Databases, Distributed Caching, Event-Driven Architectures
+### 🎥 Videos
+
+- [How Vector Search Really Works: HNSW, Filters and Qdrant](https://ishwarj.com/videos/vectors-in-depth-1/)
+- [Jev: The AI Model That Doesn't Talk. It Decides.](https://ishwarj.com/videos/jev-decision-model/)
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 What I work on
+
+- 🤖 **AI systems in production:** LLM agents, RAG pipelines, vector search, evaluation.
+- 🏗️ **Backend and data platforms:** scalable APIs, event-driven systems, ETL pipelines and warehouses.
+- ⚡ **ML systems and performance:** LLM inference, attention variants, GPU programming.
+- ☁️ **Certified AWS Solutions Architect.**
+
+### Selected work
+
+- **Consumr.ai:** data ingestion pipelines from the Facebook Ads and Google Ads APIs, PostgreSQL tuning, Flask APIs and a marketing-spend analytics platform.
+- **Cart.com:** Airbyte and Apache Airflow workflows bringing Shopify data into Snowflake, with SQL stored procedures and Python ETL.
+- **Vision IT Labs:** led the backend team; notification service on Django, Celery and Kafka; stats service on Kafka Connect and BigQuery; EKS, Jenkins and Terraform.
+- **Yes Lawyer:** backend services with Twilio and OpenAI, a transcription system, and Azure infrastructure.
+- **CVS Health:** large-scale healthcare data pipelines on Databricks, secure Google API access and gRPC integrations.
+
+---
+
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar6&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,fastapi,flask,postgres,mysql,redis,mongodb,kafka,aws,gcp,azure,docker,kubernetes,terraform,githubactions,jenkins,react&perline=10" alt="Tech stack icons" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar6&layout=compact&theme=dark">
-</p>
+| Area | Tools |
+|---|---|
+| **LLMs and NLP** | PyTorch, Hugging Face Transformers, LangChain, LangGraph, RAG, vector databases (Qdrant, Weaviate, FAISS) |
+| **Machine learning** | scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow |
+| **Backend** | Python (Django, FastAPI, Flask), REST and gRPC, Celery |
+| **Data engineering** | Apache Airflow, Spark, Kafka, Snowflake, Redshift, BigQuery, Databricks |
+| **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
+| **Cloud and DevOps** | AWS, GCP, Azure, Docker, Kubernetes (EKS), Terraform, GitHub Actions, Jenkins |
 
 ---
 
-## 📩 Let's Connect
-- 💼 **LinkedIn**: [Ishwar Jangid](https://www.linkedin.com/in/ishwarjangid/)
-- 📧 **Email**: ishwarjdev@gmail.com
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ishwar6&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar6&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwar6&style=flat-square&color=0f7286&label=profile+views" alt="Profile views" />
+</p>
+
+<div align="center">
+
+**Start reading at [ishwarj.com](https://ishwarj.com)** · new books, papers and videos are added regularly.
+
+</div>
