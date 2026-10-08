@@ -88,7 +88,7 @@ Landmark papers read slowly: the paper's own lines highlighted, plain-English ex
   <img src="https://streak-stats.demolab.com/?user=ishwar6&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar6&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar6&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
